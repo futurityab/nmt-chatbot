@@ -2,3 +2,7 @@
 __pycache__/
 todo\.txt
 _files/
+model/
+new_data/train.from
+new_data/train.to
+data/
