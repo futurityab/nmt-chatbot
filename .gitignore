@@ -6,3 +6,4 @@ model/
 new_data/train.from
 new_data/train.to
 data/
+.DS_Store
